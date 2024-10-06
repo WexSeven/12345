@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "apps" :   
+  [
+    {
+      "url" : "https://github.com/WexSeven/12345/raw/refs/heads/main/PresentInfo.exe",
+      "name" : "presentation"
+    }
+  ]
+}
